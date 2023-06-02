@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcolo mentale</string>
+    <string name="text_bouton_jouer">Giocare</string>
+    <string name="text_bouton_scores">Miglior punteggio</string>
+    <string name="text_bouton_apropos">Riguardo a</string>
+    <string name="text_bouton_guide">Guida</string>
+    <string name="text_score">Il tuo punteggio :</string>
+    <string name="text_vies">Vite :</string>
+    <string name="ERROR_NUMBER_TOO_HIGH">Il numero è troppo grande !</string>
+    <string name="text_saisie_nom">Inserisci il tuo nome !</string>
+    <string name="text_save">Salvaguardare</string>
+    <string name="text_affichage_score">Il tuo punteggio è :</string>
+    <string name="text_titre_about">App realizzata da :</string>
+    <string name="text_titre_guide">Guida al gioco :</string>
+    <string name="text_about">1) Visualizzazione dei primi 3 punteggi. \n\n 2) Implementazione di un\'operazione di divisione generica. \n\n 3) Icona di avvio modificata. \n\n</string>
+    <string name="text_guide">1) Devi risolvere il maggior numero possibile di calcoli.\n\n2) Hai a disposizione 3 vite.\n\n3) Se rimani senza vite, devi inserire il tuo nome e verrà salvato in un database.\n\n4) Hai anche la possibilità di trovare il tuo punteggio in una classifica, se disponibile.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mental Calculation</string>
+    <string name="text_bouton_jouer">Play</string>
+    <string name="text_bouton_scores">High Scores</string>
+    <string name="text_bouton_apropos">About</string>
+    <string name="text_bouton_guide">Guide</string>
+    <string name="text_score">Your score:</string>
+    <string name="text_vies">Lives:</string>
+    <string name="ERROR_NUMBER_TOO_HIGH">The number is too high!</string>
+    <string name="text_saisie_nom">Enter your name!</string>
+    <string name="text_save">Save</string>
+    <string name="text_affichage_score">Your score is :</string>
+    <string name="text_titre_about">App created by :</string>
+    <string name="text_titre_guide">Game guide :</string>
+    <string name="text_about">1) Display the top 3 scores. \n\n 2) Implementation of a generic division operation. \n\n 3) Modified launch icon. \n\n</string>
+    <string name="text_guide">1) You must solve as many calculations as possible.\n\n2) You have 3 lives.\n\n3) If you run out of lives, you must enter your name and it will be saved in a database.\n\n4) You also have the option to find your score in a leaderboard if available.</string>
+</resources>

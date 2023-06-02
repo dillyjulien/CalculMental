@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calcul Mental</string>
+    <string name="text_bouton_jouer">Jouer</string>
+    <string name="text_bouton_scores">Meilleurs Scores</string>
+    <string name="text_bouton_apropos">À propos</string>
+    <string name="text_bouton_guide">Guide</string>
+    <string name="text_score">Votre score :</string>
+    <string name="text_vies">Vies :</string>
+    <string name="text_bouton_0" translatable="false">0</string>
+    <string name="text_bouton_1" translatable="false">1</string>
+    <string name="text_bouton_2" translatable="false">2</string>
+    <string name="text_bouton_3" translatable="false">3</string>
+    <string name="text_bouton_4" translatable="false">4</string>
+    <string name="text_bouton_5" translatable="false">5</string>
+    <string name="text_bouton_6" translatable="false">6</string>
+    <string name="text_bouton_7" translatable="false">7</string>
+    <string name="text_bouton_8" translatable="false">8</string>
+    <string name="text_bouton_9" translatable="false">9</string>
+    <string name="ERROR_NUMBER_TOO_HIGH"> Le nombre est trop grand !</string>
+    <string name="text_saisie_nom"> Saisissez votre nom !</string>
+    <string name="text_save"> Sauvegarder </string>
+    <string name="text_affichage_score"> Votre score est de : </string>
+    <string name="text_titre_about"> Application réalisée par : </string>
+    <string name="text_titre_guide">Guide du jeu :</string>
+    <string name="text_about"> 1) Affichage des 3 meilleurs scores. \n\n 2) Implémentation d\'une opération de division générique \n\n 3) Launch icon modifié \n\n </string>
+    <string name="text_guide"> 1) Vous devez résoudre un maximum de calcul \n\n 2) Vous avez en votre possession 3 vies \n\n 3) Si vous avez plus de vies, vous devez rentrer votre nom et il sera enregistrer dans une base. \n\n 4) Vous avez également la possibilité de retrouver votre score dans un classement si celui-ci le permet</string>
+</resources>
